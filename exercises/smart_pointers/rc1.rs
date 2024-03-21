@@ -35,6 +35,8 @@ impl Planet {
     }
 }
 
+fn main() {}
+
 #[test]
 fn main() {
     let sun = Rc::new(Sun {});

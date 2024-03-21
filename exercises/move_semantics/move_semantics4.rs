@@ -7,7 +7,7 @@
 // Execute `rustlings hint move_semantics4` or use the `hint` watch subcommand
 // for a hint.
 
-
+fn main() {}
 
 #[test]
 fn main() {
